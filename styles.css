@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body{
+	background-image: url("https://th.bing.com/th/id/OIP.Z3iF66QpQVHe8HkLPj-RggHaEo?pid=ImgDet&rs=1");
+	background-repeat: no-repeat;
+    background-size:cover;
+}
+div{
+	text-align:center;
+	background-color:white;
+	width:50;
+	list-style-type: square;
+    margin: 30px;
+    padding:20px;
+    height: 500px;
+}
+li{
+    margin: 20px;;
+}
