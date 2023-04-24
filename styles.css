@@ -5,14 +5,14 @@ body{
     background-size:cover;
 }
 div{
-	text-align:center;
+
 	background-color:white;
 	width:50;
 	list-style-type: square;
-    margin: 30px;
+    margin: 20px 150px;
     padding:20px;
     height: 500px;
 }
 li{
-    margin: 20px;;
+    margin: 20px;
 }
